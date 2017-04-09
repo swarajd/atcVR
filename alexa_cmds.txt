@@ -1,0 +1,8 @@
+plane {a} and {b} will collide
+move plane {a} to queue position {x}
+plane {a} will now be transferred to airspace {dir}
+
+Navigation where am I
+Collision plane {planea} and {planeb} will collide
+Transfer plane {planea} will now be transferred to airspace {dir}
+LaneSelect send plane {planea} to lane {laneNumber}

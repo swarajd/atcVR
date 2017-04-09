@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "id": "plane0",
+      "x": 31,
+      "y": 217,
+      "z": 5574,
+      "spd": 2,
+      "dir": 3.9015416997170895,
+      "transfer": false
+    },
+    {
+      "id": "plane1",
+      "x": 149,
+      "y": 135,
+      "z": 3054,
+      "spd": 10,
+      "dir": 0.18671449001150128,
+      "transfer": false
+    }
+  ],
+  "collision": false,
+  "transferError": false
+}
+{
+  "data": [
+    {
+      "id": "plane0",
+      "x": 31,
+      "y": 217,
+      "z": 5574,
+      "spd": 2,
+      "dir": 3.9015416997170895,
+      "transfer": false
+    },
+    {
+      "id": "plane1",
+      "x": 149,
+      "y": 135,
+      "z": 3054,
+      "spd": 10,
+      "dir": 0.18671449001150128,
+      "transfer": false
+    }
+  ],
+  "collision": false,
+  "transferError": false
+}
+{
+  "data": [
+    {
+      "id": "plane0",
+      "x": 31,
+      "y": 217,
+      "z": 5574,
+      "spd": 2,
+      "dir": 3.9015416997170895,
+      "transfer": false
+    },
+    {
+      "id": "plane1",
+      "x": 149,
+      "y": 135,
+      "z": 3054,
+      "spd": 10,
+      "dir": 0.18671449001150128,
+      "transfer": false
+    }
+  ],
+  "collision": false,
+  "transferError": false
+}
+{
+  "data": [
+    {
+      "id": "plane0",
+      "x": 31,
+      "y": 217,
+      "z": 5574,
+      "spd": 2,
+      "dir": 3.9015416997170895,
+      "transfer": false
+    },
+    {
+      "id": "plane1",
+      "x": 149,
+      "y": 135,
+      "z": 3054,
+      "spd": 10,
+      "dir": 0.18671449001150128,
+      "transfer": false
+    }
+  ],
+  "collision": false,
+  "transferError": false
+}
+{
+  "data": [
+    {
+      "id": "plane0",
+      "x": 29,
+      "y": 215,
+      "z": 5574,
+      "spd": 2,
+      "dir": 3.9015416997170895,
+      "transfer": false
+    },
+    {
+      "id": "plane1",
+      "x": 158,
+      "y": 136,
+      "z": 3054,
+      "spd": 10,
+      "dir": 0.18671449001150128,
+      "transfer": false
+    }
+  ],
+  "collision": false,
+  "transferError": false
+}
+{
+  "data": [
+    {
+      "id": "plane0",
+      "x": 29,
+      "y": 215,
+      "z": 5574,
+      "spd": 2,
+      "dir": 3.9015416997170895,
+      "transfer": false
+    },
+    {
+      "id": "plane1",
+      "x": 158,
+      "y": 136,
+      "z": 3054,
+      "spd": 10,
+      "dir": 0.18671449001150128,
+      "transfer": false
+    }
+  ],
+  "collision": false,
+  "transferError": false
+}
+{
+  "data": [
+    {
+      "id": "plane0",
+      "x": 29,
+      "y": 215,
+      "z": 5574,
+      "spd": 2,
+      "dir": 3.9015416997170895,
+      "transfer": false
+    },
+    {
+      "id": "plane1",
+      "x": 158,
+      "y": 136,
+      "z": 3054,
+      "spd": 10,
+      "dir": 0.18671449001150128,
+      "transfer": false
+    }
+  ],
+  "collision": false,
+  "transferError": false
+}
+{
+  "data": [
+    {
+      "id": "plane0",
+      "x": 29,
+      "y": 215,
+      "z": 5574,
+      "spd": 2,
+      "dir": 3.9015416997170895,
+      "transfer": false
+    },
+    {
+      "id": "plane1",
+      "x": 158,
+      "y": 136,
+      "z": 3054,
+      "spd": 10,
+      "dir": 0.18671449001150128,
+      "transfer": false
+    }
+  ],
+  "collision": false,
+  "transferError": false
+}
+{
+  "data": [
+    {
+      "id": "plane0",
+      "x": 27,
+      "y": 213,
+      "z": 5574,
+      "spd": 2,
+      "dir": 3.9015416997170895,
+      "transfer": false
+    },
+    {
+      "id": "plane1",
+      "x": 167,
+      "y": 137,
+      "z": 3054,
+      "spd": 10,
+      "dir": 0.18671449001150128,
+      "transfer": false
+    }
+  ],
+  "collision": false,
+  "transferError": false
+}
+{
+  "data": [
+    {
+      "id": "plane0",
+      "x": 27,
+      "y": 213,
+      "z": 5574,
+      "spd": 2,
+      "dir": 3.9015416997170895,
+      "transfer": false
+    },
+    {
+      "id": "plane1",
+      "x": 167,
+      "y": 137,
+      "z": 3054,
+      "spd": 10,
+      "dir": 0.18671449001150128,
+      "transfer": false
+    }
+  ],
+  "collision": false,
+  "transferError": false
+}
+{
+  "data": [
+    {
+      "id": "plane0",
+      "x": 27,
+      "y": 213,
+      "z": 5574,
+      "spd": 2,
+      "dir": 3.9015416997170895,
+      "transfer": false
+    },
+    {
+      "id": "plane1",
+      "x": 167,
+      "y": 137,
+      "z": 3054,
+      "spd": 10,
+      "dir": 0.18671449001150128,
+      "transfer": false
+    }
+  ],
+  "collision": false,
+  "transferError": false
+}

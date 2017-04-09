@@ -1,9 +1,13 @@
 {
-  "name": "atcvrserv",
+  "name": "atcvrserv_planegrid",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.17.1",
     "express": "^4.15.2"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }

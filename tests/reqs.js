@@ -1,6 +1,6 @@
 const rq = require('superagent');
 
-let getData = () => rq.get('http://localhost:3000/');
+let getData = () => rq.get('https://limitless-oasis-38724.herokuapp.com/');
 
 let dataUpdate = async function() {
     try {
@@ -11,6 +11,6 @@ let dataUpdate = async function() {
     }
 }
 
-let interval = setInterval(dataUpdate, 250);
+let interval = setInterval(dataUpdate, 1000);
 
 setTimeout(() => clearInterval(interval), 12000);
